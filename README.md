@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishq1101" alt="tanishq1101" /></a> </p>
 
-- 👨‍💻 All of my projects are available at my GitHub profile [tanishq1101](tanishq1101)
+- 👨‍💻 All of my projects are available at my GitHub profile [tanishq1101](https://github.com/tanishq1101)
 
 - 🛠️ Tools & Frameworks: **VS Code ✍️ | PyCharm 🔧 | Git/GitHub 🐱 | IntelliJ IDEA**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/tanishq-kumar-sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tanishq-kumar-sinha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanishq-kumar-sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tanishq-kumar-sinha" height="30" width="40" /></a>
 <a href="https://instagram.com/t.k.s_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.k.s_2005" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/98piyspcdx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="98piyspcdx" height="30" width="40" /></a>
 </p>
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishq1101&show_icons=true&locale=en" alt="tanishq1101" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishq1101&" alt="tanishq1101" /></p>
+
