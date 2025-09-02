@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanishq Sinha</h1>
-<h3 align="center">👀 I’m interested in Computer Sciences and Artificial Intelligence</h3>
+<h3 align="center">🚀 Passionate about Computer Science, AI & Problem Solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq1101&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq1101" /> </p>
 
