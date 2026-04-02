@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **tanishqkrsinha2005@gmail.com**
 
-- ⚡ Fun fact: **I think I am a proper Cricket Analyst 😅**
+- ⚡ Fun fact: **I think I am a Cricket Analyst 😅**
 
 ---
 
