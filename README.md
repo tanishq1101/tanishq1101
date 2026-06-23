@@ -3,7 +3,7 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=tanishq1101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
+</p
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -15,7 +15,7 @@
 
 - 🛠️ Tools & Frameworks: **VS Code ✍️ | PyCharm 🔧 | Git/GitHub 🐱 | IntelliJ IDEA 🔧 | Figma 🎨**
 
-- 📫 How to reach me: **tanishqkrsinha2005@gmail.com**
+- 📫 How to reach me: **tanishqkrsinha2005@gmail.com** | **tks2005homes@gmail.com**
 
 - ⚡ Fun fact: **I think I am a Cricket Analyst 😅**
 
@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/tanishq-kumar-sinha" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/t.k.s_2005" target="_blank">
+        <a href="https://instagram.com/tanishq_2202" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/98piyspcdx" target="_blank">
